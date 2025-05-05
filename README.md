@@ -35,6 +35,8 @@ npm run dev
 
 för att köra projektet.
 
+## Tips
+
 - Det finns många sätt att lösa denna uppgift på. Om ni känner er osäkra på någonting, fråga hellre någon gång för mycket så att ni känner er säkra på vad ni utvecklar.
 - Ni får gärna ändra strukturen i projektet, detta är bara en grund.
 - Börja med att planera ert arbete, börja inte med Visual Studio Code, även om det är lockande.
