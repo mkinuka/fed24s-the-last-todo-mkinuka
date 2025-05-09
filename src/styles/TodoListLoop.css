@@ -1,6 +1,13 @@
 #object-container {
     display: grid;
-    grid-template-columns: repeat(3, 1fr); /* 3 rows of equal height */
-    grid-auto-flow: row; /* Automatically flow items into columns */
-    gap: 10px; /* Add spacing between grid items */
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-flow: row;
+    gap: 10px;
+}
+
+#completed-todos-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-flow: row; 
+    gap: 10px; 
 }

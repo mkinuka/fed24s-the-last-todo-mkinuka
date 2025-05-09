@@ -1,0 +1,31 @@
+.add-todo-container{
+    display: flex;
+    flex-direction: column; 
+    margin: 20px;  
+    width: 35vw;
+    align-items: center;
+}
+
+#form {
+     display: flex;
+    flex-direction: column; 
+    gap: 10px;
+    width: 25vw;
+}
+
+#descriptionInput {
+    width: 10rem;
+    background-color: black;
+    border-radius: 5px;
+}
+
+#titleInput {
+    width: 10rem;
+    background-color: black;
+    border-radius: 5px;
+}
+
+#addButton {
+    width: 15rem;
+}
+

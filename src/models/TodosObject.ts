@@ -4,7 +4,8 @@ export class TodosObject {
         public title:string,
         public completed:boolean = false,
         public description:string,
+        // public id: number
     ){
-        this.id = Date.now()
+        this.id = Math.floor(Math.random() * 1000) + 1
     }
 }
